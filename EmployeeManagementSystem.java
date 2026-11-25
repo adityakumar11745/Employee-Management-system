@@ -471,3 +471,20 @@ public class EmployeeManagementSystem {
         sc.close();
     }
 }
+
+
+// ================================
+//    EMPLOYEE MANAGEMENT SYSTEM
+// ================================
+// 1. Add Employee
+// 2. Display All Employees
+// 3. Search Employee
+// 4. Delete Employee
+// 5. Sort by Salary (High to Low)
+// 6. Exit
+// ================================
+// Enter your choice: 1
+// Enter Name: Aditya
+// Enter Department: abc
+// Enter Salary: 10000
+// Employee added. ID: E102 | Aditya | abc | 10000.0
